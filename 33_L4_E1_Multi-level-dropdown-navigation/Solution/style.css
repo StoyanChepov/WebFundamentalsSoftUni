@@ -1,0 +1,39 @@
+html{
+    font:16px/1.5 Helvetica,sans-serif;
+}
+nav{
+    display: flex;
+}
+header{
+width: 100%;
+display: inline-block;
+border-bottom: 2px solid black;
+padding-bottom: 8px;
+margin: 25px;
+display: flex;
+justify-content: space-between;
+}
+ul{
+    background: white;
+    padding: 5px;
+    display: flex;
+}
+li{
+background: #333238;
+color: white;
+padding: 6px;
+border-radius: 6px;
+display: flex;
+}
+nav ul ul{
+    display: none;
+}
+header>nav>ul li{
+    display: inline-block;
+    display: flex;
+}
+#product{
+    position: relative;
+    top: 56px;
+    display: flex;
+}

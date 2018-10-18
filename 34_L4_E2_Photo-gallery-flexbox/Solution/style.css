@@ -1,0 +1,16 @@
+
+body{
+    background: #EEEEEE;
+}
+.gallery{
+    display: flex;
+    justify-content: center;
+}
+li{
+    background: white;
+    padding: 6px;
+    border: 2px solid black;
+    display: flex;
+    vertical-align: middle;
+     justify-content: center;
+}

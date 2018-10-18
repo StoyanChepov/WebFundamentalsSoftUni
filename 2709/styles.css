@@ -1,0 +1,33 @@
+html{
+    font:16px/1.5 Helvetica, sans-serif;
+}
+body{
+    
+background: #CCE;
+color:#388;
+padding: 1em 5em /*1/top bottom 2/left right*/
+}
+body > header:first-of-child{
+    text-align: center;
+}
+h1{
+    color: rgb(0,0,0)
+}
+a:active{
+
+}
+h1, h2 ,h3 ,h4 {   
+margin: 0;
+padding: 0;
+}
+p{
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+ol,ul,dl{
+    margin: 0 0 1.5em 0} 
+    blockquote {
+border-left: 4px solid#DDD;
+
+
+    }

@@ -1,0 +1,17 @@
+html{
+    font-family: "Helvetica", sans-serif;
+    font-size:16px;
+    line-height: 1.5;
+    }
+    h1, h2 {
+font-family: "Georgia", serif;
+    }
+    article :first-child{
+       border-top: 1px; 
+    }
+    p.dotted {border-style: dotted;
+     border-radius: 1rem;}
+     article{
+         border-radius: 1rem;
+          background-color: rgb(51, 102, 153);
+     }

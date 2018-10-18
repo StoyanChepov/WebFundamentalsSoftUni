@@ -1,0 +1,5 @@
+html{
+    font:16px/1.5 Helvetica, sans-serif;
+}
+.pointer {cursor: pointer;}
+button{outline-style: solid;}
